@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjay Ajayan</h1>
 <h3 align="center">Machine Learning & Deep Learning Enthusiast</h3>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890" alt="dyingpotato890" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890" alt="dyingpotato890" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning Projects**
 
@@ -26,12 +26,15 @@
 
 <h3>My GitHub Stats</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyingpotato890&show_icons=true&theme=dark&locale=en&layout=compact" alt="dyingpotato890" /></p>
-
-<br><br><br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dyingpotato890&show_icons=true&theme=dark&locale=en" alt="dyingpotato890" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dyingpotato890&theme=dark" alt="dyingpotato890" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <a href="https://github.com/dyingpotato890">
+    <img src="https://github-readme-stats.vercel.app/api?username=dyingpotato890&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="dyingpotato890's github stats" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/AKHIL-DyC">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyingpotato890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/dyingpotato890">
+    <img alt="Profile Views" title="Profile Views" src="https://visitcount.itsvg.in/api?id=dyingpotato890&label=Profile%20Views&icon=2&pretty=true" />
+  </a>
+</p>
