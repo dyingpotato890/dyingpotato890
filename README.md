@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niranjay Ajayan</h1>
 <h3 align="center">Machine Learning & Deep Learning Enthusiast</h3>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890" alt="dyingpotato890" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning Projects**
@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyingpotato890&show_icons=true&theme=dark&locale=en&layout=compact" alt="dyingpotato890" /></p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dyingpotato890&show_icons=true&theme=dark&locale=en" alt="dyingpotato890" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
