@@ -54,9 +54,10 @@
   <a href="https://github.com/AKHIL-DyC">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyingpotato890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
   </a>
-</p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dyingpotato890&label=Profile%20views&color=0e75b6&style=flat" alt="dyingpotato890's github stats" /> 
+  <p align = "center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dyingpotato890&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </a>
+  </p>
 </p>
 <p align="center">
   <a href="https://github.com/dyingpotato890">
