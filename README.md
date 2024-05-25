@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niranjay Ajayan</h1>
 <h3 align="center">Machine Learning & Deep Learning Enthusiast</h3>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890" alt="dyingpotato890" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890" alt="dyingpotato890" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **Deep Learning Projects**
 
@@ -10,6 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dyingpotato890](https://github.com/dyingpotato890)
 
 - 📫 How to reach me **niranjayajayan2004@gmail.com** or **nirudrive@gmail.com**
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -20,6 +25,7 @@
   <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
+<br>
 
 ### 🖥️ &nbsp;Languages & Tools
 
@@ -49,8 +55,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyingpotato890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
   </a>
 </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dyingpotato890&label=Profile%20views&color=0e75b6&style=flat" alt="dyingpotato890's github stats" /> 
+</p>
 <p align="center">
   <a href="https://github.com/dyingpotato890">
     <img alt="Profile Views" title="Profile Views" src="https://visitcount.itsvg.in/api?id=dyingpotato890&label=Profile%20Views&icon=2&pretty=true" />
   </a>
 </p>
+<br>
