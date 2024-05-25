@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **niranjayajayan2004@gmail.com** or **nirudrive@gmail.com**
 <br>
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<br>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -27,9 +25,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
-<br>
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <br>
 
 ### 🖥️ &nbsp;Languages & Tools
@@ -47,9 +42,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 </p>
-<br>
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <br>
 
 ### 📈 &nbsp;My GitHub Stats
