@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning & Deep Learning Enthusiast</h3>
 <br>
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=dyingpotato890&theme=alduin">
     <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890" alt="dyingpotato890" />
   </a> 
 </p>
@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://github.com/dyingpotato890">
     <img src="https://github-readme-stats.vercel.app/api?username=dyingpotato890&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="dyingpotato890's github stats" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/AKHIL-DyC">
+  <a href="https://github.com/dyingpotato890">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyingpotato890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
   </a>
   <p align = "center">
