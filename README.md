@@ -56,7 +56,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/dyingpotato890">
-    <img alt="Profile Views" title="Profile Views" src="https://visitcount.itsvg.in/api?id=dyingpotato890&label=Profile%20Views&icon=2&pretty=true" />
-  </a>
+    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red)
 </p>
 <br>
