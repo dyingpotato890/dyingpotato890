@@ -54,7 +54,7 @@
     </a>
   </p>
 </p>
-<p align="center">
-    ![Visitor Count](https://komarev.com/ghpvc/?username=dyingpotato890&color=red)
-</p>
+<br>
+![](https://komarev.com/ghpvc/?username=dyingpotato890&color=red&style=flat)
+
 <br>
