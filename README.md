@@ -56,6 +56,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/dyingpotato890">
-    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red)
+    ![Visitor Count](https://komarev.com/ghpvc/?username=dyingpotato890&color=red)
 </p>
 <br>
