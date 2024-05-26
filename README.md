@@ -7,11 +7,11 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+- 🔭 I’m currently working on **Deep Learning Projects** and **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dyingpotato890](https://github.com/dyingpotato890)
+- 👨‍💻 All of my projects are available here.
 
 - 📫 How to reach me **niranjayajayan2004@gmail.com** or **nirudrive@gmail.com**
 <br>
