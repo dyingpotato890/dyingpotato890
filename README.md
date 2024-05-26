@@ -55,6 +55,3 @@
   </p>
 </p>
 <br>
-![](https://komarev.com/ghpvc/?username=dyingpotato890&color=red&style=flat)
-
-<br>
