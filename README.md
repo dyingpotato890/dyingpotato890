@@ -55,7 +55,6 @@
   </p>
 </p>
 <p align="center">
-  <a href="https://github.com/dyingpotato890">
     ![Visitor Count](https://komarev.com/ghpvc/?username=dyingpotato890&color=red)
 </p>
 <br>
