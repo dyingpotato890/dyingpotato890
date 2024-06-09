@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Niranjay Ajayan</h1>
-<h3 align="center">Machine Learning & Deep Learning Enthusiast</h3><br>
+<h3 align="center">Machine Learning & Deep Learning Enthusiast</h3>
+<br>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&theme=onedark&no-bg=true" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&title=Stars,Followers,Commits,Repositories,Stars,Issues,PullRequest&theme=onedark&no-bg=true" alt="trophy" />
   </a>
 </div>
 
