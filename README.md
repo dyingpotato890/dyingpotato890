@@ -3,10 +3,9 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&title=Stars,Followers,Commits,Repositories,Stars,Issues,PullRequest&theme=onedark&no-bg=true" alt="trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&column=7&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="trophies" align="center" />
 </div>
+<br />
 
 - 🔭 I’m currently working on **Deep Learning Projects** and **Machine Learning Projects**
 
