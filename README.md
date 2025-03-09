@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niranjay Ajayan</h1>
+<h1 align="center">Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Niranjay Ajayan</h1>
 <h3 align="center">Machine Learning & Deep Learning Enthusiast</h3>
 <br>
 
@@ -7,13 +7,12 @@
 </div>
 <br />
 
-- 🔭 I’m currently working on **Deep Learning Projects** and **Machine Learning Projects**
+- 🔭 I’m currently working on **Multi-AI Agent Projects** and **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Tensorflow**
 
 - 👨‍💻 All of my projects are available here.
 
-- 📫 How to reach me **niranjayajayan2004@gmail.com** or **nirudrive@gmail.com**
 <br>
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -26,7 +25,7 @@
 
 ### 🖥️ &nbsp;Languages & Tools
 
-### **Languages:**  
+### - **Languages:**  
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -35,7 +34,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
 
-### **Libraries & Tools:**  
+### - **Libraries & Tools:**  
 <div align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -45,7 +44,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge">
 </div>
 
-### **Frameworks & Platforms:**  
+### - **Frameworks & Platforms:**  
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/CrewAI-FF5A50?logo=crewai&logoColor=fff&style=for-the-badge">
@@ -53,14 +52,14 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-### **Databases & Package Managers:**  
+### - **Databases & Package Managers:**  
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
-### **AI & LLMs:**  
+### - **AI & LLMs:**  
 <div align="center">
   <img src="https://img.shields.io/badge/Gemini-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-00A67E.svg?style=for-the-badge&logo=openai&logoColor=white">
