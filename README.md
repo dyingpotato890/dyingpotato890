@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Multi-AI Agent Projects** and **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available here.
 
@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://github.com/dyingpotato890">
-    <img src="https://github-readme-stats.vercel.app/api?username=dyingpotato890&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="dyingpotato890's github stats" /></a>&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=dyingpotato890&theme=tokyonight&show_icons=true" alt="dyingpotato890's github stats" /></a>&nbsp;&nbsp;
   <a href="https://github.com/dyingpotato890">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyingpotato890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
   </a>
