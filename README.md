@@ -2,10 +2,9 @@
 <h3 align="center">Machine Learning & Deep Learning Enthusiast</h3>
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&column=8&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="trophies" align="center" />
-</div>
-<br />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&column=8&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true" alt="trophies" />
+</p>
 
 - 🔭 I’m currently working on **Multi-AI Agent Projects** and **Machine Learning Projects**.
 
