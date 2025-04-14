@@ -9,7 +9,7 @@
 -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&column=8&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&column=7&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true" alt="trophies" />
   </a>
 </p>
 
