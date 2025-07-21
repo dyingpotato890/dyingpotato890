@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Multi-AI Agent Projects** and **Machine Learning Projects**.
 
-- 🌱 I’m currently learning **Django** and **Flutter**.
+- 🌱 I’m currently learning **Google ADK** and **Flutter**.
 
 - 👨‍💻 All of my projects are available here.
 
