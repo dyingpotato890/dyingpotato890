@@ -70,7 +70,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Gemini-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-00A67E.svg?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/LLama-800000.svg?style=for-the-badge&logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/HuggingFace-FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black">
 </div>
 <br>
