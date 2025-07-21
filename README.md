@@ -79,9 +79,10 @@
 
 <p align="center">
   <a href="https://github.com/dyingpotato890">
-    <img src="https://github-readme-stats.vercel.app/api?username=dyingpotato890&theme=tokyonight&show_icons=true" alt="dyingpotato890's github stats" /></a>&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=dyingpotato890&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="dyingpotato890's github stats" /></a>&nbsp;&nbsp;
   <a href="https://github.com/dyingpotato890">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyingpotato890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyingpotato890&theme=tokyonight&show_icons=true&langs_count=8&hide_border=false&layout=compact" />
+    
   </a>
   <p align = "center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dyingpotato890&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
