@@ -7,12 +7,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dyingpotato890&column=7&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true" alt="trophies" />
 </div>
 
+<br>
 
-- 🔭 I’m currently working on **Multi-AI Agent Projects** and **Machine Learning Projects**.
-
-- 🌱 I’m currently learning **Google ADK** and **Flutter**.
-
-- 👨‍💻 All of my projects are available here.
+- 🎓 Currently serving as the **Vice Chairperson** of **NSDC MEC**
+- 🤖 I’m currently working on Multi-AI Agent Projects and Machine Learning Projects
+- 📱 I’m currently learning Google ADK and Flutter
+- 🔗 All of my projects are available here
 
 <br>
 
