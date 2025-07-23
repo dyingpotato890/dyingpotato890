@@ -24,6 +24,16 @@
 </p>
 <br>
 
+### 🚀 &nbsp;Recent Activity & Contributions
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2112](https://github.com/rommapp/romm/pull/2112) in [rommapp/romm](https://github.com/rommapp/romm) - Fix spelling error: 'arwork' to 'artwork' in README
+2. 💪 Opened PR [#768](https://github.com/Cinnamon/kotaemon/pull/768) in [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - Fix typo in README: change 'Your' to 'You' in azure openai section
+3. 🎉 Merged PR [#6877](https://github.com/refinedev/refine/pull/6877) in [refinedev/refine](https://github.com/refinedev/refine) - Fix typo in README: remove extra 'as' from description
+4. 💪 Opened PR [#280](https://github.com/ndleah/python-mini-project/pull/280) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project) - Instagram Unfollowers Tracker
+<!--END_SECTION:activity-->
+<br>
+
 ### 🖥️ &nbsp;Languages & Tools
 
 ### - **Languages:**  
